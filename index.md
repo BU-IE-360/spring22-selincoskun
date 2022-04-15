@@ -2,7 +2,14 @@
 
 
 ### Homework 1
+[Here](IE360_Homework1_Report.html) is my html report
+[Here](IE_360_HW1_code.ipynb) is my code
+
+
+
+
+
 ### Homework 2
 ### Homework 3
 
-[link](https://moodle.boun.edu.tr/login/)
+

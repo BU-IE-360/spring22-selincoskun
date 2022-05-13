@@ -9,6 +9,10 @@
 
 
 
+### Homework 2
+[Here](Homework2_Report_SelinCoskun.html) is my html report
 
+
+[Here](Homework2_Code_SelinCoskun.ipynb) is my code
 
 

@@ -16,7 +16,7 @@
 [Here](Homework2_Code_SelinCoskun.ipynb) is my code
 
 
-###Project
+### Project
 [Here](Pro_Report.html) is my html report
 
 

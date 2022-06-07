@@ -17,7 +17,7 @@
 
 
 ### Project
-[Here](Pro_Report.html) is my html report
+[Here](Pro_Report.html) is our html report
 
 
-[Here](Project5.ipynb) is my code
+[Here](Project5.ipynb) is our code
